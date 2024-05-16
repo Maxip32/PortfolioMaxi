@@ -1,5 +1,5 @@
 import style from './Contactame.module.css'
-import yo from '../assets/yo.jpg'
+import yo from '../assets/yo.png'
 import gmail from '../assets/gmail1.gif'
 import whatsapp from '../assets/whatsapp.gif'
 import linkedin from '../assets/linkedin.gif'
